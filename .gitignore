@@ -1,0 +1,9 @@
+.env
+data/qa_store.db
+data/chroma_store/
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+dist/
+.pytest_cache/

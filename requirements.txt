@@ -1,0 +1,19 @@
+# PDF parsing
+pdfplumber>=0.11.0
+
+# Excel parsing
+pandas>=2.2.0
+openpyxl>=3.1.2
+
+# Database
+sqlalchemy>=2.0.0
+
+# Vector store
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+
+# LLM
+groq>=0.9.0
+
+# Utilities
+python-dotenv>=1.0.0
