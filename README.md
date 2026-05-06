@@ -18,7 +18,7 @@ cd doc-qa-service
 python -m venv .venv
 .venv\Scripts\activate          # Windows
 pip install -r requirements.txt
-# Create .env manually and add: GROQ_API_KEY=your_key_here
+# Create .env manually and add: GROQ_API_KEY=your_key_here or use below step to create env and assign keys
 ```
 
 After setup, create a `.env` file in the project folder with your Groq API key:
