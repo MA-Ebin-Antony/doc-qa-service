@@ -124,6 +124,4 @@ The LLM **never searches the database directly** — ChromaDB + SQLite do the se
 
 1. **Add a simple web UI** — a basic HTML page where users can type a question and see the answer, instead of using the command line.
 2. **Support more file types** — allow uploading Word documents (.docx) or plain text files alongside PDF and Excel.
-3. **Better error messages** — show clearer messages when a file is missing, the API key is wrong, or no answer is found.
-4. **Search history** — save past questions and answers to a file so users can look back at what was asked before.
 5. **Multi-language support** — allow questions to be asked in languages other than English and return answers in the same language.
