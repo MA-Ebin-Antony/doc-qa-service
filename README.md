@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 After setup, create a `.env` file in the project folder with your Groq API key:
 ```
-echo "GROQ_API_KEY="your_env_key" > .env
+echo "GROQ_API_KEY=your_env_key" > .env
 ```
 
 ## Ingest Your Files
