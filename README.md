@@ -21,7 +21,7 @@ pip install -r requirements.txt
 # Create .env manually and add: GROQ_API_KEY=your_key_here or use below step to create env and assign keys
 ```
 
-After setup, create a `.env` file in the project folder with your Groq API key:
+After setup, create a `.env` file in the project folder with your Groq API key with below steps or manually:
 ```
 echo "GROQ_API_KEY=your_env_key" > .env
 ```
@@ -88,7 +88,7 @@ Together:
 - SQLite answers *what exactly is stored*
 - ChromaDB answers *what is most relevant to this question*
 
-### How Q&A Works (RAG — Retrieval-Augmented Generation)
+### How Q&A Works
 
 ```
 User question
